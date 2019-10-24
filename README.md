@@ -17,3 +17,7 @@ As stated above, the main purpouse is to provide simple examples for Git trainin
 This is a simple web project, deploymeny can be any web server or even local file sytem.
 
 ##How to Contribute
+
+### Copyright
+
+2019 Git.Training
