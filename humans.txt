@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    AJdin Haliti ajdin@gmail.com
 
 # THANKS
 
